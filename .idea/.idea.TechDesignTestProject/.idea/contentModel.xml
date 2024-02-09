@@ -35,6 +35,32 @@
             <e p="platform" t="Include" />
           </e>
         </e>
+        <e p="Prefabs" t="Include">
+          <e p="camera" t="Include" />
+          <e p="interactable_buttons" t="Include" />
+          <e p="map" t="Include">
+            <e p="animations_objects" t="Include">
+              <e p="click_animation_objects" t="Include" />
+              <e p="cycled_objects" t="Include" />
+            </e>
+            <e p="audio_players" t="Include">
+              <e p="sounds" t="Include" />
+            </e>
+            <e p="background" t="Include" />
+            <e p="levels" t="Include">
+              <e p="level_01" t="Include" />
+              <e p="level_02" t="Include" />
+            </e>
+            <e p="platforms" t="Include">
+              <e p="platforms_scenes" t="Include" />
+              <e p="platforms_variants" t="Include" />
+            </e>
+          </e>
+          <e p="ui" t="Include">
+            <e p="buttons" t="Include" />
+            <e p="canvas" t="Include" />
+          </e>
+        </e>
         <e p="Scenes" t="Include" />
         <e p="Scripts" t="Include">
           <e p="AnimationPlayerClick.cs" t="Include" />

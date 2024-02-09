@@ -22,7 +22,6 @@
     <list default="true" id="63a13a37-8a8e-4713-99d0-037ef9f2b8b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TechDesignTestProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TechDesignTestProject/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TechDesignTestProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TechDesignTestProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/level_01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/level_01.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/level_02.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/level_02.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
@@ -86,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707466238822</updated>
-      <workItem from="1707466283331" duration="1596000" />
+      <workItem from="1707466283331" duration="2297000" />
     </task>
     <servers />
   </component>
