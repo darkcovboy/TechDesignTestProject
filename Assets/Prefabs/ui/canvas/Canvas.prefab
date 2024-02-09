@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3883073147748701029}
   - component: {fileID: 3883073147748701028}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -194,7 +194,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1568044381345516365, guid: 89e2c43ac8e202047b302d7330ac00e8, type: 3}
       propertyPath: m_Name
-      value: LoadLevelButton
+      value: load_level_button
       objectReference: {fileID: 0}
     - target: {fileID: 1568044381345516365, guid: 89e2c43ac8e202047b302d7330ac00e8, type: 3}
       propertyPath: m_IsActive
